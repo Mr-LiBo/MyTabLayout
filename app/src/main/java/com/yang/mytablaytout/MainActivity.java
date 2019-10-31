@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void initTab(TabLayout view) {
-        String[] title = {"北京朝阳", "四川成都","广州深圳","上海外滩"};
+        String[] title = {"北京朝阳", "四川成都" };
         for (int i = 0; i < title.length; i++) {
             TabLayout.Tab tab = view.newTab();
             tab.setText(title[i]);
