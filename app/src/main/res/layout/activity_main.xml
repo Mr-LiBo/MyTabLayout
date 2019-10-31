@@ -85,7 +85,7 @@
         app:tabGravity="fill"
         app:tabIndicatorColor="@color/colorPrimaryDark"
         app:tabIndicatorHeight="2dp"
-        app:tabIndicatorWidth="20dp"
+        app:tabIndicatorWidth="100dp"
         app:tabMode="fixed"
         app:tabSelectedTextColor="@color/colorPrimaryDark"
         app:tabTextColor="#000"

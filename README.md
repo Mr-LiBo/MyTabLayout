@@ -31,7 +31,7 @@ allprojects {
 ## 声明依赖
 在你要使用的module的`build.gradle`文件中声明以下依赖：
 ```gradle
-implementation 'com.github.yangyizhen404:MyTabLayout:1.1'
+    implementation 'com.github.Mr-LiBo:MyTabLayout:1.0.1'
 ```
 
 ## 代码调用
