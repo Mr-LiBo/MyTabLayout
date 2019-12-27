@@ -1,4 +1,4 @@
-package com.yang.mytablaytout;
+package com.libo.mytablaytout;
 
 import org.junit.Test;
 

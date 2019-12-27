@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.yang.mytab;
+package com.libo.mytab;
 
 import android.content.Context;
 import android.content.res.TypedArray;

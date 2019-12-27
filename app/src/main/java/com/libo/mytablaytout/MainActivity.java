@@ -1,9 +1,9 @@
-package com.yang.mytablaytout;
+package com.libo.mytablaytout;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.yang.mytab.TabLayout;
+import com.libo.mytab.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
     TabLayout mtab;

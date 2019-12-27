@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.yang.mytablaytout.MainActivity">
+    tools:context="com.libo.mytablaytout.MainActivity">
 
-    <com.yang.mytab.TabLayout
+    <com.libo.mytab.TabLayout
         android:id="@+id/m_tab"
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -26,7 +26,7 @@
         app:dividerHeight="40dp"
         />
 
-    <com.yang.mytab.TabLayout
+    <com.libo.mytab.TabLayout
         android:id="@+id/m_tab1"
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -43,7 +43,7 @@
         app:dividerHeight="50dp"
         />
 
-    <com.yang.mytab.TabLayout
+    <com.libo.mytab.TabLayout
         android:id="@+id/m_tab2"
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -60,7 +60,7 @@
         app:dividerHeight="10dp"
         />
 
-    <com.yang.mytab.TabLayout
+    <com.libo.mytab.TabLayout
         android:id="@+id/m_tab3"
         android:layout_width="match_parent"
         android:layout_height="40dp"
@@ -77,7 +77,7 @@
         app:dividerHeight="10dp"
         />
 
-    <com.yang.mytab.TabLayout
+    <com.libo.mytab.TabLayout
         android:id="@+id/m_tab4"
         android:layout_width="match_parent"
         android:layout_height="40dp"

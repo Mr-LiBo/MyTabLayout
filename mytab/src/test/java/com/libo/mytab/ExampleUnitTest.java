@@ -1,4 +1,4 @@
-package com.yang.mytab;
+package com.libo.mytab;
 
 import org.junit.Test;
 
